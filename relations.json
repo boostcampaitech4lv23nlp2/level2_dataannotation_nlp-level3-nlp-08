@@ -1,0 +1,14 @@
+{
+    "no_relation": 0,
+    "PER:released_song": 1,
+    "PER:date_of_birth": 2,
+    "SNG:released_date": 3,
+    "PER:date_of_debut": 4,
+    "PER:alternate_names": 5,
+    "PER:job": 6,
+    "PER:co_worker": 7,
+    "ORG:founder": 8,
+    "ORG:employees": 9,
+    "TEC:used_for" : 10,
+    "EVE:participant": 11
+}
